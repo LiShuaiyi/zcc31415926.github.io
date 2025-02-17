@@ -2,6 +2,8 @@
 
 ## About Me
 
+<img src="contents/intro.jpg" alt="me" style="float: left; margin-right: 20px;width:25%">
+
 I am currently a first-year Ph.D. student at the CUHK REliable Computing ([CURE](https://cure-lab.github.io/)) Lab, the Department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by Prof. Qiang XU. Before that, I received my master's and bachelor's degree at the Department of Automation, Shanghai Jiao Tong University, respectively supervised by Assoc Prof. Hao LI and Prof. Ming YANG. My current research interests span the fields of trustworthy AI systems and generative models.
 
 Email: cczhaocharlie(at)outlook.com
